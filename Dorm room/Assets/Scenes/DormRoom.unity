@@ -284,18 +284,12 @@ MonoBehaviour:
   onPickUp:
     m_PersistentCalls:
       m_Calls: []
-    m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
-      Culture=neutral, PublicKeyToken=null
   onDetachFromHand:
     m_PersistentCalls:
       m_Calls: []
-    m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
-      Culture=neutral, PublicKeyToken=null
   onHeldUpdate:
     m_PersistentCalls:
       m_Calls: []
-    m_TypeName: Valve.VR.InteractionSystem.HandEvent, SteamVR, Version=0.0.0.0, Culture=neutral,
-      PublicKeyToken=null
   interactable: {fileID: 0}
 --- !u!54 &35766941
 Rigidbody:
@@ -523,18 +517,12 @@ MonoBehaviour:
   onPickUp:
     m_PersistentCalls:
       m_Calls: []
-    m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
-      Culture=neutral, PublicKeyToken=null
   onDetachFromHand:
     m_PersistentCalls:
       m_Calls: []
-    m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
-      Culture=neutral, PublicKeyToken=null
   onHeldUpdate:
     m_PersistentCalls:
       m_Calls: []
-    m_TypeName: Valve.VR.InteractionSystem.HandEvent, SteamVR, Version=0.0.0.0, Culture=neutral,
-      PublicKeyToken=null
   interactable: {fileID: 0}
 --- !u!54 &37549781
 Rigidbody:
@@ -899,18 +887,12 @@ MonoBehaviour:
   onPickUp:
     m_PersistentCalls:
       m_Calls: []
-    m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
-      Culture=neutral, PublicKeyToken=null
   onDetachFromHand:
     m_PersistentCalls:
       m_Calls: []
-    m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
-      Culture=neutral, PublicKeyToken=null
   onHeldUpdate:
     m_PersistentCalls:
       m_Calls: []
-    m_TypeName: Valve.VR.InteractionSystem.HandEvent, SteamVR, Version=0.0.0.0, Culture=neutral,
-      PublicKeyToken=null
   interactable: {fileID: 0}
 --- !u!54 &74712733
 Rigidbody:
@@ -1322,18 +1304,12 @@ MonoBehaviour:
   onPickUp:
     m_PersistentCalls:
       m_Calls: []
-    m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
-      Culture=neutral, PublicKeyToken=null
   onDetachFromHand:
     m_PersistentCalls:
       m_Calls: []
-    m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
-      Culture=neutral, PublicKeyToken=null
   onHeldUpdate:
     m_PersistentCalls:
       m_Calls: []
-    m_TypeName: Valve.VR.InteractionSystem.HandEvent, SteamVR, Version=0.0.0.0, Culture=neutral,
-      PublicKeyToken=null
   interactable: {fileID: 0}
 --- !u!54 &124309469
 Rigidbody:
@@ -1664,14 +1640,14 @@ RectTransform:
   m_GameObject: {fileID: 183598694}
   m_LocalRotation: {x: -0, y: -0.63735753, z: -0, w: -0.77056825}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 0.66169155, y: 0.66169155, z: 0.66169155}
   m_Children: []
   m_Father: {fileID: 1537571293}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: -280.81, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: -0.24}
   m_SizeDelta: {x: 11.11, y: 2.98}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &183598696
@@ -1692,8 +1668,6 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-    m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
-      Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_Texture: {fileID: 2800000, guid: e9b92e5f5fb5a48d48a95898fccbc0ad, type: 3}
   m_UVRect:
     serializedVersion: 2
@@ -2281,18 +2255,12 @@ MonoBehaviour:
   onPickUp:
     m_PersistentCalls:
       m_Calls: []
-    m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
-      Culture=neutral, PublicKeyToken=null
   onDetachFromHand:
     m_PersistentCalls:
       m_Calls: []
-    m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
-      Culture=neutral, PublicKeyToken=null
   onHeldUpdate:
     m_PersistentCalls:
       m_Calls: []
-    m_TypeName: Valve.VR.InteractionSystem.HandEvent, SteamVR, Version=0.0.0.0, Culture=neutral,
-      PublicKeyToken=null
   interactable: {fileID: 0}
 --- !u!54 &472479612
 Rigidbody:
@@ -2625,18 +2593,12 @@ MonoBehaviour:
   onPickUp:
     m_PersistentCalls:
       m_Calls: []
-    m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
-      Culture=neutral, PublicKeyToken=null
   onDetachFromHand:
     m_PersistentCalls:
       m_Calls: []
-    m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
-      Culture=neutral, PublicKeyToken=null
   onHeldUpdate:
     m_PersistentCalls:
       m_Calls: []
-    m_TypeName: Valve.VR.InteractionSystem.HandEvent, SteamVR, Version=0.0.0.0, Culture=neutral,
-      PublicKeyToken=null
   interactable: {fileID: 0}
 --- !u!54 &527898537
 Rigidbody:
@@ -3015,18 +2977,12 @@ MonoBehaviour:
   onPickUp:
     m_PersistentCalls:
       m_Calls: []
-    m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
-      Culture=neutral, PublicKeyToken=null
   onDetachFromHand:
     m_PersistentCalls:
       m_Calls: []
-    m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
-      Culture=neutral, PublicKeyToken=null
   onHeldUpdate:
     m_PersistentCalls:
       m_Calls: []
-    m_TypeName: Valve.VR.InteractionSystem.HandEvent, SteamVR, Version=0.0.0.0, Culture=neutral,
-      PublicKeyToken=null
   interactable: {fileID: 0}
 --- !u!54 &591416002
 Rigidbody:
@@ -3516,18 +3472,12 @@ MonoBehaviour:
   onPickUp:
     m_PersistentCalls:
       m_Calls: []
-    m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
-      Culture=neutral, PublicKeyToken=null
   onDetachFromHand:
     m_PersistentCalls:
       m_Calls: []
-    m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
-      Culture=neutral, PublicKeyToken=null
   onHeldUpdate:
     m_PersistentCalls:
       m_Calls: []
-    m_TypeName: Valve.VR.InteractionSystem.HandEvent, SteamVR, Version=0.0.0.0, Culture=neutral,
-      PublicKeyToken=null
   interactable: {fileID: 0}
 --- !u!54 &723787950
 Rigidbody:
@@ -3673,18 +3623,12 @@ MonoBehaviour:
   onPickUp:
     m_PersistentCalls:
       m_Calls: []
-    m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
-      Culture=neutral, PublicKeyToken=null
   onDetachFromHand:
     m_PersistentCalls:
       m_Calls: []
-    m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
-      Culture=neutral, PublicKeyToken=null
   onHeldUpdate:
     m_PersistentCalls:
       m_Calls: []
-    m_TypeName: Valve.VR.InteractionSystem.HandEvent, SteamVR, Version=0.0.0.0, Culture=neutral,
-      PublicKeyToken=null
   interactable: {fileID: 0}
 --- !u!54 &744883855
 Rigidbody:
@@ -4030,18 +3974,12 @@ MonoBehaviour:
   onPickUp:
     m_PersistentCalls:
       m_Calls: []
-    m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
-      Culture=neutral, PublicKeyToken=null
   onDetachFromHand:
     m_PersistentCalls:
       m_Calls: []
-    m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
-      Culture=neutral, PublicKeyToken=null
   onHeldUpdate:
     m_PersistentCalls:
       m_Calls: []
-    m_TypeName: Valve.VR.InteractionSystem.HandEvent, SteamVR, Version=0.0.0.0, Culture=neutral,
-      PublicKeyToken=null
   interactable: {fileID: 0}
 --- !u!54 &786094404
 Rigidbody:
@@ -4206,7 +4144,7 @@ RectTransform:
   m_GameObject: {fileID: 930833933}
   m_LocalRotation: {x: 0.00000033900142, y: -0.6659579, z: -0.0000002682209, w: -0.7459893}
   m_LocalPosition: {x: 0, y: 0, z: 0.00000018672765}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 0.5862, y: 0.5862, z: 0.5862}
   m_Children: []
   m_Father: {fileID: 1723129648}
   m_RootOrder: 0
@@ -4234,8 +4172,6 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-    m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
-      Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_Texture: {fileID: 2800000, guid: 113162b1e62ec47999c54edb82cfca6c, type: 3}
   m_UVRect:
     serializedVersion: 2
@@ -4430,18 +4366,12 @@ MonoBehaviour:
   onPickUp:
     m_PersistentCalls:
       m_Calls: []
-    m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
-      Culture=neutral, PublicKeyToken=null
   onDetachFromHand:
     m_PersistentCalls:
       m_Calls: []
-    m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
-      Culture=neutral, PublicKeyToken=null
   onHeldUpdate:
     m_PersistentCalls:
       m_Calls: []
-    m_TypeName: Valve.VR.InteractionSystem.HandEvent, SteamVR, Version=0.0.0.0, Culture=neutral,
-      PublicKeyToken=null
   interactable: {fileID: 0}
 --- !u!54 &943826225
 Rigidbody:
@@ -4606,18 +4536,12 @@ MonoBehaviour:
   onPickUp:
     m_PersistentCalls:
       m_Calls: []
-    m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
-      Culture=neutral, PublicKeyToken=null
   onDetachFromHand:
     m_PersistentCalls:
       m_Calls: []
-    m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
-      Culture=neutral, PublicKeyToken=null
   onHeldUpdate:
     m_PersistentCalls:
       m_Calls: []
-    m_TypeName: Valve.VR.InteractionSystem.HandEvent, SteamVR, Version=0.0.0.0, Culture=neutral,
-      PublicKeyToken=null
   interactable: {fileID: 0}
 --- !u!54 &1020615645
 Rigidbody:
@@ -5412,18 +5336,12 @@ MonoBehaviour:
   onPickUp:
     m_PersistentCalls:
       m_Calls: []
-    m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
-      Culture=neutral, PublicKeyToken=null
   onDetachFromHand:
     m_PersistentCalls:
       m_Calls: []
-    m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
-      Culture=neutral, PublicKeyToken=null
   onHeldUpdate:
     m_PersistentCalls:
       m_Calls: []
-    m_TypeName: Valve.VR.InteractionSystem.HandEvent, SteamVR, Version=0.0.0.0, Culture=neutral,
-      PublicKeyToken=null
   interactable: {fileID: 0}
 --- !u!54 &1295973732
 Rigidbody:
@@ -5620,18 +5538,12 @@ MonoBehaviour:
   onPickUp:
     m_PersistentCalls:
       m_Calls: []
-    m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
-      Culture=neutral, PublicKeyToken=null
   onDetachFromHand:
     m_PersistentCalls:
       m_Calls: []
-    m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
-      Culture=neutral, PublicKeyToken=null
   onHeldUpdate:
     m_PersistentCalls:
       m_Calls: []
-    m_TypeName: Valve.VR.InteractionSystem.HandEvent, SteamVR, Version=0.0.0.0, Culture=neutral,
-      PublicKeyToken=null
   interactable: {fileID: 0}
 --- !u!54 &1315217273
 Rigidbody:
@@ -7779,18 +7691,12 @@ MonoBehaviour:
   onPickUp:
     m_PersistentCalls:
       m_Calls: []
-    m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
-      Culture=neutral, PublicKeyToken=null
   onDetachFromHand:
     m_PersistentCalls:
       m_Calls: []
-    m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
-      Culture=neutral, PublicKeyToken=null
   onHeldUpdate:
     m_PersistentCalls:
       m_Calls: []
-    m_TypeName: Valve.VR.InteractionSystem.HandEvent, SteamVR, Version=0.0.0.0, Culture=neutral,
-      PublicKeyToken=null
   interactable: {fileID: 0}
 --- !u!54 &1560366500
 Rigidbody:
@@ -9158,18 +9064,12 @@ MonoBehaviour:
   onPickUp:
     m_PersistentCalls:
       m_Calls: []
-    m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
-      Culture=neutral, PublicKeyToken=null
   onDetachFromHand:
     m_PersistentCalls:
       m_Calls: []
-    m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
-      Culture=neutral, PublicKeyToken=null
   onHeldUpdate:
     m_PersistentCalls:
       m_Calls: []
-    m_TypeName: Valve.VR.InteractionSystem.HandEvent, SteamVR, Version=0.0.0.0, Culture=neutral,
-      PublicKeyToken=null
   interactable: {fileID: 0}
 --- !u!54 &1582558408
 Rigidbody:
@@ -9369,7 +9269,7 @@ RectTransform:
   m_GameObject: {fileID: 1619555118}
   m_LocalRotation: {x: 0, y: -0.88941634, z: 0, w: 0.45709804}
   m_LocalPosition: {x: 0, y: 0, z: -0.12}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 0.438128, y: 0.69375324, z: 1}
   m_Children: []
   m_Father: {fileID: 1628802689}
   m_RootOrder: 0
@@ -9397,8 +9297,6 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-    m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
-      Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_Texture: {fileID: 2800000, guid: 98eeee6fe23094042a0b0cb8467b8018, type: 3}
   m_UVRect:
     serializedVersion: 2
@@ -9726,11 +9624,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: 3c5948a7857904ce289400a713470d4a, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 7.85
+      value: 4.47
       objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: 3c5948a7857904ce289400a713470d4a, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 49.01
+      value: 51.21
       objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: 3c5948a7857904ce289400a713470d4a, type: 3}
       propertyPath: m_LocalRotation.x
@@ -9738,7 +9636,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: 3c5948a7857904ce289400a713470d4a, type: 3}
       propertyPath: m_LocalRotation.y
-      value: 0.5864589
+      value: 0.9259899
       objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: 3c5948a7857904ce289400a713470d4a, type: 3}
       propertyPath: m_LocalRotation.z
@@ -9746,7 +9644,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: 3c5948a7857904ce289400a713470d4a, type: 3}
       propertyPath: m_LocalRotation.w
-      value: 0.809979
+      value: -0.37754828
       objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: 3c5948a7857904ce289400a713470d4a, type: 3}
       propertyPath: m_RootOrder
@@ -9758,7 +9656,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: 3c5948a7857904ce289400a713470d4a, type: 3}
       propertyPath: m_LocalEulerAnglesHint.y
-      value: 71.812004
+      value: 224.364
       objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: 3c5948a7857904ce289400a713470d4a, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
@@ -9766,15 +9664,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: 3c5948a7857904ce289400a713470d4a, type: 3}
       propertyPath: m_LocalScale.x
-      value: 14.111512
+      value: 8.976756
       objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: 3c5948a7857904ce289400a713470d4a, type: 3}
       propertyPath: m_LocalScale.y
-      value: 14.111512
+      value: 8.976756
       objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: 3c5948a7857904ce289400a713470d4a, type: 3}
       propertyPath: m_LocalScale.z
-      value: 14.111512
+      value: 8.976756
       objectReference: {fileID: 0}
     - target: {fileID: 2300000, guid: 3c5948a7857904ce289400a713470d4a, type: 3}
       propertyPath: m_Materials.Array.data[0]
@@ -10492,18 +10390,12 @@ MonoBehaviour:
   onPickUp:
     m_PersistentCalls:
       m_Calls: []
-    m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
-      Culture=neutral, PublicKeyToken=null
   onDetachFromHand:
     m_PersistentCalls:
       m_Calls: []
-    m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
-      Culture=neutral, PublicKeyToken=null
   onHeldUpdate:
     m_PersistentCalls:
       m_Calls: []
-    m_TypeName: Valve.VR.InteractionSystem.HandEvent, SteamVR, Version=0.0.0.0, Culture=neutral,
-      PublicKeyToken=null
   interactable: {fileID: 0}
 --- !u!54 &1952906759
 Rigidbody:
@@ -10694,18 +10586,12 @@ MonoBehaviour:
   onPickUp:
     m_PersistentCalls:
       m_Calls: []
-    m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
-      Culture=neutral, PublicKeyToken=null
   onDetachFromHand:
     m_PersistentCalls:
       m_Calls: []
-    m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
-      Culture=neutral, PublicKeyToken=null
   onHeldUpdate:
     m_PersistentCalls:
       m_Calls: []
-    m_TypeName: Valve.VR.InteractionSystem.HandEvent, SteamVR, Version=0.0.0.0, Culture=neutral,
-      PublicKeyToken=null
   interactable: {fileID: 0}
 --- !u!54 &1964946228
 Rigidbody:
@@ -10883,7 +10769,7 @@ RectTransform:
   m_GameObject: {fileID: 2019814072}
   m_LocalRotation: {x: -0, y: -0.41008234, z: 0, w: -0.9120485}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 0.48334, y: 0.48334, z: 0.48334}
   m_Children: []
   m_Father: {fileID: 195417307}
   m_RootOrder: 0
@@ -10911,8 +10797,6 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-    m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
-      Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_Texture: {fileID: 2800000, guid: cdae249ae41534429b167ed5f9e0e27e, type: 3}
   m_UVRect:
     serializedVersion: 2
@@ -11229,18 +11113,12 @@ MonoBehaviour:
   onPickUp:
     m_PersistentCalls:
       m_Calls: []
-    m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
-      Culture=neutral, PublicKeyToken=null
   onDetachFromHand:
     m_PersistentCalls:
       m_Calls: []
-    m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
-      Culture=neutral, PublicKeyToken=null
   onHeldUpdate:
     m_PersistentCalls:
       m_Calls: []
-    m_TypeName: Valve.VR.InteractionSystem.HandEvent, SteamVR, Version=0.0.0.0, Culture=neutral,
-      PublicKeyToken=null
   interactable: {fileID: 0}
 --- !u!54 &2091228438
 Rigidbody:
@@ -11349,7 +11227,7 @@ RectTransform:
   m_GameObject: {fileID: 2105239383}
   m_LocalRotation: {x: -0, y: -0.9736655, z: -0, w: -0.22798169}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 0.5420731, y: 0.5420731, z: 0.5420731}
   m_Children: []
   m_Father: {fileID: 1380681025}
   m_RootOrder: 0
@@ -11377,8 +11255,6 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-    m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
-      Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_Texture: {fileID: 2800000, guid: 1eae1f25267ff4937a5da4474353a2be, type: 3}
   m_UVRect:
     serializedVersion: 2
